@@ -1,23 +1,44 @@
-<style>
-nav {
-  list-style-type: none;
-  position: fixed;
-  background-color: black;
-  width: 100%;
-  left: 0;
-  top: 0;
-}
-.nav {
-  display: inline;
-  float: right;
-  padding: 20px;
-  margin: 5px;
-  background-color: #2D2B2B;
+body{
+
+ background-color: white;
+ text-decoration: none;
+ color: #1DB954;
+ font-family: Arial Black;
+ font-size:30px;
 }
 
-a {
-  text-decoration: none;
-  color: #1DB954;
-  font-family: Arial Black;
+nav {
+ list-style-type: none;
+ position: fixed;
+ background-color: gray;
+ top:0;
+ width: 100%;
+ left: 0;
+ font-family: Arial Black;
+ font-size: 20px;
 }
-</style>
+
+
+li {
+
+
+ display: inline;
+ padding: 15px;
+ float: right;
+}
+
+
+li:hover {
+ background-color: black;
+}
+
+
+a {
+
+
+ text-decoration: none;
+ color: #1DB954;
+
+
+}
+
