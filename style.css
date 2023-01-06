@@ -1,21 +1,58 @@
 body{
 
+
+
+
  background-color: white;
+
+
  text-decoration: none;
+
+
  color: #1DB954;
+
+
  font-family: Arial Black;
+
+
  font-size:30px;
+
+
 }
 
+
+
+
+
+
+
 nav {
+
+
  list-style-type: none;
+
+
  position: fixed;
+
+
  background-color: gray;
+
+
  top:0;
+
+
  width: 100%;
+
+
  left: 0;
+
+
  font-family: Arial Black;
+
+
  font-size: 20px;
+
+
 }
 
 
@@ -23,20 +60,37 @@ li {
 
 
  display: inline;
+
+
  padding: 15px;
+
+
  float: right;
+
+
 }
 
 
 li:hover {
+
+
  background-color: black;
+
+
 }
+
+
+
+
+
 
 
 a {
 
 
  text-decoration: none;
+
+
  color: #1DB954;
 
 
